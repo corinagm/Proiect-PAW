@@ -1,0 +1,13 @@
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect-PAW.csprojAssemblyReference.cache
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect_PAW.FormDateCandidat.resources
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect_PAW.FormMediiBacalaureat.resources
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect_PAW.FormMeniuPrincipal.resources
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect_PAW.Properties.Resources.resources
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect-PAW.csproj.GenerateResource.cache
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect-PAW.csproj.CoreCompileInputs.cache
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\bin\Debug\Proiect-PAW.exe.config
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\bin\Debug\Proiect-PAW.exe
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\bin\Debug\Proiect-PAW.pdb
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect-PAW.exe
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect-PAW.pdb
+D:\Corina\An-III-CSIE\sem II\PAW\proiect-PAW\Proiect-PAW\Proiect-PAW\obj\Debug\Proiect_PAW.FormSelectareFacultati.resources
